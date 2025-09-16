@@ -1,0 +1,137 @@
+Network Management Card AOS v6.4.6
+RPDU 2g APP v6.4.6
+NMC Serial Number: ZA1817026881
+
+Model Number: AP8858EU3
+RPDU Serial Number: ZA1818021379
+Hardware Revision: 02
+NMC BM Version: 1.0.8
+
+Date		Time		Name	Contact	Location	System IP
+02/21/2024	03:06:20	apc064272	Unknown	Unknown		192.168.255.40
+
+Date		Time		User		Event	Code
+02/21/2024	03:06:06	apc	FTP user 'apc' logged in from 192.168.255.32.	0x0016
+02/21/2024	03:04:24	System	Web user 'apc' logged out from 192.168.255.32.	0x001F
+02/21/2024	02:59:44	System	CLI user 'apc' logged out from serial port.	0x001E
+02/21/2024	02:57:34	apc	Web user 'apc' logged in from 192.168.255.32.	0x0015
+02/21/2024	02:56:44	apc	CLI user 'apc' logged in from serial port.	0x0014
+02/21/2024	02:55:43	System	Network service started. System IP is 192.168.255.40 from DHCP server 192.168.255.1 with 86390 second lease.	0x0007
+02/21/2024	02:55:29	System	Network service started. IPv6 address FE80::2A29:86FF:FE06:4272 assigned by link-local autoconfiguration.	0x0007
+02/21/2024	02:55:24	System	Network Interface restarted.	0x0002
+02/21/2024	02:55:15	apc	Network Interface restarting. Console user request.	0x0009
+02/21/2024	02:55:07	apc	Configuration change. Ethernet port speed.	0x0033
+02/21/2024	02:55:00	apc	CLI user 'apc' logged in from serial port.	0x0014
+02/21/2024	02:54:34	apc	Web user 'apc' logged in from 192.168.255.32.	0x0015
+02/21/2024	02:53:45	System	Network service started. System IP is 192.168.255.40 from DHCP server 192.168.255.1 with 86390 second lease.	0x0007
+02/21/2024	02:53:33	System	Network service started. IPv6 address FE80::2A29:86FF:FE06:4272 assigned by link-local autoconfiguration.	0x0007
+02/21/2024	02:53:25	System	Network Interface restarted.	0x0002
+02/21/2024	02:53:17	apc	Network Interface restarting. Console user request.	0x0009
+02/21/2024	02:53:12	apc	Configuration change. Ethernet port speed.	0x0033
+02/21/2024	02:52:52	apc	Web user 'apc' logged in from 192.168.255.32.	0x0015
+02/21/2024	02:52:28	System	Network service started. System IP is 192.168.255.40 from DHCP server 192.168.255.1 with 86390 second lease.	0x0007
+02/21/2024	02:52:17	apc	CLI user 'apc' logged in from serial port.	0x0014
+02/21/2024	02:52:09	System	Network service started. IPv6 address FE80::2A29:86FF:FE06:4272 assigned by link-local autoconfiguration.	0x0007
+02/21/2024	02:52:04	System	Network Interface restarted.	0x0002
+02/21/2024	02:51:56	apc	Network Interface restarting. Console user request.	0x0009
+02/21/2024	02:51:49	apc	Configuration change. Ethernet port speed.	0x0033
+02/21/2024	02:51:13	apc	CLI user 'apc' logged in from serial port.	0x0014
+02/21/2024	02:51:06	System	Network service started. System IP is 192.168.255.40 from DHCP server 192.168.255.1 with 86390 second lease.	0x0007
+02/21/2024	02:50:55	System	Network service started. IPv6 address FE80::2A29:86FF:FE06:4272 assigned by link-local autoconfiguration.	0x0007
+02/21/2024	02:50:49	System	Network Interface restarted.	0x0002
+02/21/2024	02:50:41	apc	Network Interface restarting. Web user request.	0x0009
+02/21/2024	02:50:26	apc	Web user 'apc' logged in from 192.168.255.32.	0x0015
+02/21/2024	02:50:03	apc	CLI user 'apc' logged in from serial port.	0x0014
+02/21/2024	02:49:55	System	Network service started. System IP is 192.168.255.40 from DHCP server 192.168.255.1 with 86390 second lease.	0x0007
+02/21/2024	02:49:41	System	Network service started. IPv6 address FE80::2A29:86FF:FE06:4272 assigned by link-local autoconfiguration.	0x0007
+02/21/2024	02:49:35	System	Network Interface restarted.	0x0002
+02/21/2024	02:49:27	apc	Network Interface restarting. Console user request.	0x0009
+02/21/2024	02:49:20	apc	Configuration change. Boot mode.	0x0033
+02/21/2024	02:48:33	apc	Web user 'apc' logged in from 192.168.255.32.	0x0015
+02/21/2024	02:46:14	apc	CLI user 'apc' logged in from serial port.	0x0014
+02/21/2024	02:45:31	System	Network service started. IPv6 address FE80::2A29:86FF:FE06:4272 assigned by link-local autoconfiguration.	0x0007
+02/21/2024	02:45:28	System	Network service started. System IP is 192.168.255.40 from manually configured settings.	0x0007
+02/21/2024	02:45:24	System	Network Interface restarted.	0x0002
+02/21/2024	02:45:16	apc	Network Interface restarting. Console user request.	0x0009
+02/21/2024	02:45:09	apc	Configuration change. TCP/IP default gateway.	0x0033
+02/21/2024	02:44:48	apc	Configuration change. TCP/IP	0x0033
+02/21/2024	02:44:32	apc	CLI user 'apc' logged in from serial port.	0x0014
+02/21/2024	02:44:07	System	Network service started. IPv6 address FE80::2A29:86FF:FE06:4272 assigned by link-local autoconfiguration.	0x0007
+02/21/2024	02:44:04	System	Network service started. System IP is 10.16.43.13 from manually configured settings.	0x0007
+02/21/2024	02:44:01	System	Network Interface restarted.	0x0002
+02/21/2024	02:43:53	apc	Network Interface restarting. Console user request.	0x0009
+02/21/2024	02:43:47	apc	Configuration change. Boot mode.	0x0033
+02/21/2024	02:42:03	apc	CLI user 'apc' logged in from serial port.	0x0014
+02/21/2024	02:38:21	System	CLI user 'apc' logged out from serial port.	0x001E
+02/21/2024	02:32:59	apc	CLI user 'apc' logged in from serial port.	0x0014
+02/21/2024	02:32:27	System	Network service started. System IP is 192.168.255.40 from DHCP server 192.168.255.1 with 86390 second lease.	0x0007
+02/21/2024	02:32:08	System	Network service started. IPv6 address FE80::2A29:86FF:FE06:4272 assigned by link-local autoconfiguration.	0x0007
+02/21/2024	02:32:02	System	Network Interface restarted.	0x0002
+02/21/2024	02:31:54	apc	Network Interface restarting. Console user request.	0x0009
+02/21/2024	02:31:45	apc	Configuration change. Boot mode.	0x0033
+02/21/2024	02:31:26	apc	CLI user 'apc' logged in from serial port.	0x0014
+02/21/2024	02:25:10	System	CLI user 'apc' logged out from serial port.	0x001E
+02/21/2024	02:22:06	apc	CLI user 'apc' logged in from serial port.	0x0014
+02/21/2024	02:21:54	System	Network service started. IPv6 address FE80::2A29:86FF:FE06:4272 assigned by link-local autoconfiguration.	0x0007
+02/21/2024	02:21:52	System	Network service started. System IP is 10.16.43.13 from manually configured settings.	0x0007
+02/21/2024	02:21:45	System	Network Interface restarted.	0x0002
+02/21/2024	02:21:37	apc	Network Interface restarting. Console user request.	0x0009
+02/21/2024	02:18:41	apc	CLI user 'apc' logged in from serial port.	0x0014
+02/21/2024	01:57:02	System	Network service started. IPv6 address FE80::2A29:86FF:FE06:4272 assigned by link-local autoconfiguration.	0x0007
+02/21/2024	01:56:59	System	Network service started. System IP is 10.16.43.13 from manually configured settings.	0x0007
+02/21/2024	01:56:52	System	Network Interface coldstarted.	0x0001
+01/06/2019	22:09:13	System	Network service started. IPv6 address FE80::2A29:86FF:FE06:4272 assigned by link-local autoconfiguration.	0x0007
+01/06/2019	22:09:11	System	Network service started. System IP is 10.16.43.13 from manually configured settings.	0x0007
+01/06/2019	22:09:03	System	Network Interface coldstarted.	0x0001
+08/15/2018	01:18:45	System	CLI user 'apc' logged out from serial port.	0x001E
+08/15/2018	01:15:41	apc	CLI user 'apc' logged in from serial port.	0x0014
+08/15/2018	01:15:31	System	Network service started. IPv6 address FE80::2A29:86FF:FE06:4272 assigned by link-local autoconfiguration.	0x0007
+08/15/2018	01:15:29	System	Network service started. System IP is 10.16.43.13 from manually configured settings.	0x0007
+08/15/2018	01:15:21	System	Network Interface restarted.	0x0002
+08/15/2018	01:15:13	apc	Network Interface restarting. Console user request.	0x0009
+08/15/2018	01:14:45	apc	Configuration change. Host name.	0x0033
+08/15/2018	01:13:34	apc	Configuration change. TCP/IP default gateway.	0x0033
+08/15/2018	01:12:17	apc	Configuration change. TCP/IP subnet mask.	0x0033
+08/15/2018	01:11:47	apc	Configuration change. Boot mode.	0x0033
+08/15/2018	01:11:47	apc	Configuration change. TCP/IP	0x0033
+08/15/2018	01:11:15	apc	CLI user 'apc' logged in from serial port.	0x0014
+08/12/2018	19:34:45	System	Network service started. IPv6 address FE80::2A29:86FF:FE06:4272 assigned by link-local autoconfiguration.	0x0007
+08/12/2018	19:34:36	System	Network Interface coldstarted.	0x0001
+08/10/2018	06:13:40	RPDU	Rack PDU 1: Device near overload cleared.	0x3411
+08/10/2018	06:13:40	RPDU	Rack PDU 1: Phase near overload cleared on phase #1.	0x3417
+08/10/2018	06:13:40	RPDU	Rack PDU 1: Phase overload cleared on phase #1.	0x3419
+08/10/2018	06:13:39	RPDU	Rack PDU 1: Device near overload.	0x3412
+08/10/2018	06:13:39	RPDU	Rack PDU 1: Phase near overload on phase #1.	0x3418
+08/10/2018	06:13:39	RPDU	Rack PDU 1: Phase overload on phase #1.	0x341A
+08/10/2018	06:01:10	RPDU	Rack PDU 1: Phase near overload cleared on phase #1.	0x3417
+08/10/2018	06:01:10	RPDU	Rack PDU 1: Phase near overload on phase #1.	0x3418
+08/10/2018	05:55:42	RPDU	Rack PDU 1: Phase near overload cleared on phase #1.	0x3417
+08/10/2018	05:55:42	RPDU	Rack PDU 1: Phase near overload on phase #1.	0x3418
+08/10/2018	05:55:29	RPDU	Rack PDU 1: Device near overload cleared.	0x3411
+08/10/2018	05:55:29	RPDU	Rack PDU 1: Phase near overload cleared on phase #1.	0x3417
+08/10/2018	05:55:29	RPDU	Rack PDU 1: Phase overload cleared on phase #1.	0x3419
+08/10/2018	05:55:28	RPDU	Rack PDU 1: Device near overload.	0x3412
+08/10/2018	05:55:28	RPDU	Rack PDU 1: Phase near overload on phase #1.	0x3418
+08/10/2018	05:55:28	RPDU	Rack PDU 1: Phase overload on phase #1.	0x341A
+08/10/2018	02:01:45	RPDU	Rack PDU 1: Device configuration change. Display orientation.	0x3483
+08/09/2018	05:32:58	System	CLI user 'apc' logged out from serial port.	0x001E
+08/09/2018	05:29:47	apc	Configuration change. Host name.	0x0033
+08/09/2018	05:29:09	apc	CLI user 'apc' logged in from serial port.	0x0014
+08/07/2018	23:19:20	System	Network service started. IPv6 address FE80::2A29:86FF:FE06:4272 assigned by link-local autoconfiguration.	0x0007
+08/07/2018	23:19:10	System	Network Interface coldstarted.	0x0001
+08/05/2018	02:42:32	System	Network service started. IPv6 address FE80::2A29:86FF:FE06:4272 assigned by link-local autoconfiguration.	0x0007
+08/05/2018	02:42:23	System	Network Interface coldstarted.	0x0001
+04/28/2018	02:12:00	System	Initializing data in the dlogEE file.	0x0019
+04/28/2018	02:12:00	System	Data Log cleared.	0x0023
+04/28/2018	02:12:00	System	Configuration change. Data log size.	0x0033
+04/28/2018	02:11:49	System	Network service started. IPv6 address FE80::2A29:86FF:FE06:4272 assigned by link-local autoconfiguration.	0x0007
+04/28/2018	02:11:43	RPDU	Rack PDU 1: Phase configuration change. Reset Peak Load.	0x3486
+04/28/2018	02:11:43	RPDU	Rack PDU 1: Bank configuration change. Reset Peak Load.	0x3487
+04/28/2018	02:11:43	RPDU	Rack PDU 1: Outlet configuration change. Reset Peak Load.	0x3485
+04/28/2018	02:11:37	RPDU	Rack PDU 1: Device configuration change. Reset Peak Load.	0x3483
+04/28/2018	02:11:43	System	Configuration change. User class.	0x0033
+04/28/2018	02:11:31	System	Network Interface coldstarted.	0x0001
+04/28/2018	02:03:59	System	Network Interface restarting.	0x0009
+04/28/2018	02:03:43	System	Event Log cleared.	0x0013
+04/28/2018	02:03:43	System	Initializing data in the /db/eventcfg.db file.	0x0019
+04/28/2018	02:03:43	System	Reset to Defaults	0x0018
